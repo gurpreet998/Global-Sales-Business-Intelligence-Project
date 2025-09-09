@@ -147,7 +147,10 @@ To improve user experience, I designed a **custom navigation bar** available on 
 - Added **buttons** for moving across different pages (Executive Overview, Regional Performance, Product Insights, Trend Analysis).  
 - Created **icons (Home, Globe, Products, Chart, etc.)** for intuitive navigation.  
 - Configured button actions with **page navigation** so users can easily move back and forth between sections.  
-- Ensures the dashboard feels like a **cohesive application**, not just separate pages.  
+- Ensures the dashboard feels like a **cohesive application**, not just separate pages.
+
+![Navigation](https://github.com/gurpreet998/Global-Sales-Business-Intelligence-Project/blob/main/Screenshots/Navigation.png)
+
 
 ---
 
