@@ -109,6 +109,8 @@ Steps performed in **Power Query**:
 
 👉 Highlights **best/worst performing regions** and **customer segment contributions**.  
 
+![Regional Analysis Dashboard](https://github.com/gurpreet998/Global-Sales-Business-Intelligence-Project/blob/main/Screenshots/AA_Regional.png)
+
 ---
 
 ### 3️⃣ Product Insights  
@@ -121,6 +123,8 @@ Steps performed in **Power Query**:
 
 👉 Helps identify **profitable products & categories**, as well as **shipping cost impact**.  
 
+![Product Insights Dashboard](https://github.com/gurpreet998/Global-Sales-Business-Intelligence-Project/blob/main/Screenshots/AA_Product_insights.png)
+
 ---
 
 ### 4️⃣ Trend Analysis  
@@ -132,6 +136,8 @@ Steps performed in **Power Query**:
 - Matrix → Product performance with Revenue, Profit, Margin, YOY % Change  
 
 👉 Tracks **growth trends, seasonality, and product-level YOY performance**.  
+
+![Trend Analysis Dashboard](https://github.com/gurpreet998/Global-Sales-Business-Intelligence-Project/blob/main/Screenshots/AA_Trend.png)
 
 ---
 
