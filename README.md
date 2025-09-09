@@ -94,7 +94,7 @@ Steps performed in **Power Query**:
 
 👉 Gives executives a **quick health check** of overall business performance.  
 
-![Executive Overview Dashboard](images/executive_overview.png)
+![Executive Overview Dashboard](https://github.com/gurpreet998/Global-Sales-Business-Intelligence-Project/blob/main/Screenshots/AA_Exec.png)
 
 ---
 
