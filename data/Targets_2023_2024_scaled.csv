@@ -1,0 +1,201 @@
+Region,Quarter,Target Revenue
+New Jersey,Q1-2023,4110
+New Jersey,Q2-2023,4316
+New Jersey,Q3-2023,4439
+New Jersey,Q4-2023,4522
+New Jersey,Q1-2024,4567
+New Jersey,Q2-2024,4796
+New Jersey,Q3-2024,4933
+New Jersey,Q4-2024,5024
+Las Vegas,Q1-2023,3494
+Las Vegas,Q2-2023,3669
+Las Vegas,Q3-2023,3773
+Las Vegas,Q4-2023,3843
+Las Vegas,Q1-2024,3882
+Las Vegas,Q2-2024,4076
+Las Vegas,Q3-2024,4193
+Las Vegas,Q4-2024,4270
+Cardiff,Q1-2023,2877
+Cardiff,Q2-2023,3021
+Cardiff,Q3-2023,3108
+Cardiff,Q4-2023,3165
+Cardiff,Q1-2024,3197
+Cardiff,Q2-2024,3357
+Cardiff,Q3-2024,3453
+Cardiff,Q4-2024,3517
+Pittsburgh,Q1-2023,2466
+Pittsburgh,Q2-2023,2590
+Pittsburgh,Q3-2023,2664
+Pittsburgh,Q4-2023,2713
+Pittsburgh,Q1-2024,2740
+Pittsburgh,Q2-2024,2877
+Pittsburgh,Q3-2024,2960
+Pittsburgh,Q4-2024,3014
+Miami,Q1-2023,4933
+Miami,Q2-2023,5179
+Miami,Q3-2023,5327
+Miami,Q4-2023,5426
+Miami,Q1-2024,5481
+Miami,Q2-2024,5755
+Miami,Q3-2024,5919
+Miami,Q4-2024,6029
+Sydney,Q1-2023,4522
+Sydney,Q2-2023,4748
+Sydney,Q3-2023,4883
+Sydney,Q4-2023,4974
+Sydney,Q1-2024,5024
+Sydney,Q2-2024,5275
+Sydney,Q3-2024,5426
+Sydney,Q4-2024,5526
+Memphis,Q1-2023,2672
+Memphis,Q2-2023,2805
+Memphis,Q3-2023,2886
+Memphis,Q4-2023,2939
+Memphis,Q1-2024,2969
+Memphis,Q2-2024,3117
+Memphis,Q3-2024,3206
+Memphis,Q4-2024,3266
+New York,Q1-2023,6166
+New York,Q2-2023,6474
+New York,Q3-2023,6659
+New York,Q4-2023,6782
+New York,Q1-2024,6851
+New York,Q2-2024,7193
+New York,Q3-2024,7399
+New York,Q4-2024,7536
+Montreal,Q1-2023,3905
+Montreal,Q2-2023,4100
+Montreal,Q3-2023,4217
+Montreal,Q4-2023,4295
+Montreal,Q1-2024,4339
+Montreal,Q2-2024,4556
+Montreal,Q3-2024,4686
+Montreal,Q4-2024,4773
+Sacramento,Q1-2023,2877
+Sacramento,Q2-2023,3021
+Sacramento,Q3-2023,3108
+Sacramento,Q4-2023,3165
+Sacramento,Q1-2024,3197
+Sacramento,Q2-2024,3357
+Sacramento,Q3-2024,3453
+Sacramento,Q4-2024,3517
+Paris,Q1-2023,5344
+Paris,Q2-2023,5611
+Paris,Q3-2023,5771
+Paris,Q4-2023,5878
+Paris,Q1-2024,5937
+Paris,Q2-2024,6234
+Paris,Q3-2024,6412
+Paris,Q4-2024,6531
+San Antonio,Q1-2023,3288
+San Antonio,Q2-2023,3453
+San Antonio,Q3-2023,3551
+San Antonio,Q4-2023,3617
+San Antonio,Q1-2024,3654
+San Antonio,Q2-2024,3836
+San Antonio,Q3-2024,3946
+San Antonio,Q4-2024,4019
+Cleveland,Q1-2023,2672
+Cleveland,Q2-2023,2805
+Cleveland,Q3-2023,2886
+Cleveland,Q4-2023,2939
+Cleveland,Q1-2024,2969
+Cleveland,Q2-2024,3117
+Cleveland,Q3-2024,3206
+Cleveland,Q4-2024,3266
+London,Q1-2023,5755
+London,Q2-2023,6042
+London,Q3-2023,6215
+London,Q4-2023,6330
+London,Q1-2024,6394
+London,Q2-2024,6714
+London,Q3-2024,6906
+London,Q4-2024,7034
+Portland,Q1-2023,3083
+Portland,Q2-2023,3237
+Portland,Q3-2023,3329
+Portland,Q4-2023,3391
+Portland,Q1-2024,3425
+Portland,Q2-2024,3597
+Portland,Q3-2024,3699
+Portland,Q4-2024,3768
+Detroit,Q1-2023,2960
+Detroit,Q2-2023,3108
+Detroit,Q3-2023,3196
+Detroit,Q4-2023,3256
+Detroit,Q1-2024,3288
+Detroit,Q2-2024,3453
+Detroit,Q3-2024,3551
+Detroit,Q4-2024,3617
+Dublin,Q1-2023,3699
+Dublin,Q2-2023,3884
+Dublin,Q3-2023,3995
+Dublin,Q4-2023,4069
+Dublin,Q1-2024,4110
+Dublin,Q2-2024,4316
+Dublin,Q3-2024,4439
+Dublin,Q4-2024,4522
+Glasgow,Q1-2023,3494
+Glasgow,Q2-2023,3669
+Glasgow,Q3-2023,3773
+Glasgow,Q4-2023,3843
+Glasgow,Q1-2024,3882
+Glasgow,Q2-2024,4076
+Glasgow,Q3-2024,4193
+Glasgow,Q4-2024,4270
+Austin,Q1-2023,3617
+Austin,Q2-2023,3798
+Austin,Q3-2023,3907
+Austin,Q4-2023,3979
+Austin,Q1-2024,4019
+Austin,Q2-2024,4220
+Austin,Q3-2024,4341
+Austin,Q4-2024,4421
+Toronto,Q1-2023,4110
+Toronto,Q2-2023,4316
+Toronto,Q3-2023,4439
+Toronto,Q4-2023,4522
+Toronto,Q1-2024,4567
+Toronto,Q2-2024,4796
+Toronto,Q3-2024,4933
+Toronto,Q4-2024,5024
+Mumbai,Q1-2023,3905
+Mumbai,Q2-2023,4100
+Mumbai,Q3-2023,4217
+Mumbai,Q4-2023,4295
+Mumbai,Q1-2024,4339
+Mumbai,Q2-2024,4556
+Mumbai,Q3-2024,4686
+Mumbai,Q4-2024,4773
+San Francisco,Q1-2023,4727
+San Francisco,Q2-2023,4963
+San Francisco,Q3-2023,5105
+San Francisco,Q4-2023,5200
+San Francisco,Q1-2024,5252
+San Francisco,Q2-2024,5515
+San Francisco,Q3-2024,5672
+San Francisco,Q4-2024,5778
+Manchester,Q1-2023,3576
+Manchester,Q2-2023,3755
+Manchester,Q3-2023,3862
+Manchester,Q4-2023,3934
+Manchester,Q1-2024,3973
+Manchester,Q2-2024,4172
+Manchester,Q3-2024,4291
+Manchester,Q4-2024,4371
+Liverpool,Q1-2023,3288
+Liverpool,Q2-2023,3453
+Liverpool,Q3-2023,3551
+Liverpool,Q4-2023,3617
+Liverpool,Q1-2024,3654
+Liverpool,Q2-2024,3836
+Liverpool,Q3-2024,3946
+Liverpool,Q4-2024,4019
+New Delhi,Q1-2023,4316
+New Delhi,Q2-2023,4532
+New Delhi,Q3-2023,4661
+New Delhi,Q4-2023,4748
+New Delhi,Q1-2024,4796
+New Delhi,Q2-2024,5035
+New Delhi,Q3-2024,5179
+New Delhi,Q4-2024,5275
