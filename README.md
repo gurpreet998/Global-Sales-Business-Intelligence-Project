@@ -70,11 +70,13 @@ Steps performed in **Power Query**:
 
 - **Relationships Created**:  
   - `Sales[RegionQuarterYear]` (Many) → `Targets[RegionQuarterYear]` (One)  
-  - `Sales[Order Date]` → `Date[Date]`  
+  - `Sales[Order Date]`(Many) → `Custom Calendar[Date]`(One)
+  - `Sales[Order Location]`(Many) → `City Mapping[Country]`(One)
+  - Measure Table (for creating measures exclusively) not a part of model design
 
 - **Star Schema Approach** adopted for simplicity:  
   - **Fact Table**: Sales  
-  - **Dimension Tables**: Date, Targets, Products, Locations  
+  - **Dimension Tables**: Custom Calendar, Targets, City Mapping  
 
 ---
 
@@ -151,7 +153,24 @@ To improve user experience, I designed a **custom navigation bar** available on 
 
 ---
 
-## 📂 Repository Structure  
+## 📂 Repository Structure 
+
+Global-Sales-Business-Intelligence-Project/
+│── data/ # datasets
+│── dashboard/ # Power BI .pbix file
+│── images/ # Screenshots of dashboard pages
+│── README.md # Project documentation
+
+
+---
+
+## 🛠️ Tools & Technologies  
+
+- **Excel** → Exploratory Data Analysis (EDA)  
+- **Power BI** → ETL, Modeling, Visualization  
+- **DAX** → KPIs & YOY calculations  
+- **Power Query** → Data transformation  
+
 
 
 
