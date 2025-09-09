@@ -94,6 +94,8 @@ Steps performed in **Power Query**:
 
 👉 Gives executives a **quick health check** of overall business performance.  
 
+![Executive Overview Dashboard](images/executive_overview.png)
+
 ---
 
 ### 2️⃣ Regional Performance  
